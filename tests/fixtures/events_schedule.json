@@ -1,0 +1,16 @@
+[
+  {
+    "id": "evt_1",
+    "name": "Stella Montis Defense",
+    "map": "Stella Montis",
+    "startTime": "2026-02-08T12:00:00Z",
+    "endTime": "2026-02-08T13:00:00Z"
+  },
+  {
+    "id": "evt_2",
+    "name": "Buried City Raid",
+    "map": "Buried City",
+    "startTime": "2026-02-08T14:00:00Z",
+    "endTime": "2026-02-08T15:00:00Z"
+  }
+]

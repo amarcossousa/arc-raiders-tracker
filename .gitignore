@@ -1,0 +1,81 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+logs/
+
+# Test / coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.cache/
+
+# =========================
+# Poetry / Virtualenv
+# =========================
+.venv/
+venv/
+
+# Poetry lock opcional (MANTER normalmente)
+# poetry.lock
+
+# =========================
+# Ambiente e segredos
+# =========================
+.env
+.env.*
+*.env
+
+# Arquivos de configuração locais
+*.local
+
+# Tokens / chaves
+secrets/
+credentials/
+
+# =========================
+# VSCode
+# =========================
+.vscode/
+
+# (Se quiser manter configurações compartilhadas, ignore apenas)
+# .vscode/*
+# !.vscode/settings.json
+
+# =========================
+# Sistema Operacional
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Cache de ferramentas
+# =========================
+.mypy_cache/
+.ruff_cache/
+.tox/
+
+# =========================
+# Dados temporários do projeto
+# =========================
+data/
+tmp/
+temp/
+
+# =========================
+# SQLite / banco local (se criar depois)
+# =========================
+*.db
+*.sqlite3
